@@ -1,0 +1,23 @@
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\obj\Debug\iloire Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\iloire Facturacion.dll.config
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\iloire Facturacion.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\iloire Facturacion.pdb
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\Elmah.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\EntityFramework.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Data.SqlServerCe.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.Helpers.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.Mvc.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.Razor.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.WebPages.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\EntityFramework.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.Helpers.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.Mvc.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.Razor.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.WebPages.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\obj\Debug\iloire Facturacion.dll
+C:\Users\kamranyaseen\Desktop\asp.net-mvc-example-invoicing-app-master\iloire Facturacion\obj\Debug\iloire Facturacion.pdb
